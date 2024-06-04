@@ -5,4 +5,4 @@ Compact FF bar taken from >>https://github.com/CarterSnich/firefox-xtra-compact?
 
 Spirited Away animated theme >> https://addons.mozilla.org/ru/firefox/addon/spirited-away-animated/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser
 
-by tg:@th3r3isn0end
+by t.me/th3r3isn0end
